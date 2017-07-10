@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css?family=Anton" rel="stylesheet">
+    <style>
+
+        * {
+        margin: 0;
+        padding : 0;
+        box-sizing: border-box;
+        }  
+        ul {
+            
+            margin-left: 0px;
+            list-style-type: none;
+        } 
+        li {
+            font-family: 'Anton', sans-serif;
+            padding: 30px;
+            border:2px solid green;
+        }
+        .li-chinh {
+            position: relative;
+        }
+        .ul_phu {
+            position: absolute;
+            left:0%;
+            bottom: 53.5%;
+            width: 112px;
+            display: none;
+        }
+        .li_phu {
+            float: left;
+            padding: 10px;
+            width: 10%;
+        }
+        .li_phu:hover {
+            color: blue;
+            background-color: #2b5f75;
+        }
+        .li_phu:hover .ul_phu {
+            display: block;
+            color: #2b5f75;
+            background-color:#1565C0;
+        }
+        .li2 {
+            border: 1.5px solid #2b5f75;
+        }
+        .ul_phu:hover {
+            color: #2b5f75;
+            background-color:#1565C0;
+        }
+        .li2:hover {
+            color: white;
+            background-color: black;
+        }
+
+
+      
+
+    </style>
+</head>
+<body>
+
+    <ul class="ul_chinh">
+        <li class="li_phu"> Menu 1  
+            <ul class="ul_phu">
+                <li class="li2"> 1 </li>
+                <li class="li2"> 2 </li>
+                <li class="li2"> 3 </li>
+            </ul>
+        </li>
+        <li class="li_phu"> Menu 2 </li>
+        <li class="li_phu"> Menu 3 </li>
+    </ul>
+        
+    
+</body>
+</html>
