@@ -1,0 +1,397 @@
+* {
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+}
+.begin {
+	background-image: url("file:///C:/Users/Admin/Downloads/BaiTap/Phototime/img/banner.png");
+	background-size: 100% 100%;
+}
+.tieu_de {
+	height: 100px;
+	position: relative;
+}
+.tieu_de p{
+	float: left;
+	color: white;
+	padding-top:60px;
+	padding-bottom:18px;
+	font-size: 21.5px;
+}
+.tieu_de img{
+	position: absolute;
+	left: 50.5%;
+	margin-left: -30px;
+	padding-top: 40px;
+}
+.p1 {
+	position: absolute;
+	left:24%;
+	padding-top: 20px;
+	font-family: 'Spectral', serif;
+}
+.p2 {
+	position: absolute;
+	left:34.5%;
+	padding-top: 20px;
+	font-family: 'Spectral', serif;
+}
+.p3 {
+	position: absolute;
+	left:57.5%;
+	padding-top: 20px;
+	font-family: 'Spectral', serif;
+}
+.p4 {
+	position: absolute;
+	left:68%;
+	padding-top: 20px;
+	font-family: 'Spectral', serif;
+}
+.chu_de {
+	height: 603px;
+	position: relative;
+}
+.p5 {
+	position: absolute;
+	left:33%;
+	font-size: 50px;
+	top:38%;
+	color: white;
+	font-family: 'Lobster', cursive;
+}
+.p6 {
+	position: absolute;
+	font-size: 30px;
+	left:36%;
+	top:50%;
+	color: white;
+	font-family: 'Lobster', cursive;
+}
+.get_started {
+	border-radius: 5px;
+	width: 175px;
+	padding: 11px;
+	height: 50px;
+	position: absolute;
+	left: 43.5%;
+	top: 60%;
+	background-color: #4CAF50;
+	color: white;
+	padding-left: 33px;
+	font-size: 18px;
+	font-family: 'Baloo Bhaina', cursive;
+}
+.meme {
+	position: absolute;
+	left: 45%;
+	bottom: 1.5%;
+
+}
+.fa-twitter {
+	font-size: 25px !important;
+	color: white;
+}
+.fa-facebook-official {
+	font-size: 25px !important;
+	margin-left: 30px;
+	margin-right: 30px;
+	color: white;
+}
+.fa-steam-square {
+	font-size: 25px !important;
+	color: white;
+}
+.tieu_de2 {
+	background-image: url("file:///C:/Users/Admin/Downloads/BaiTap/Phototime/img/iphone.png");
+	height: 495px;
+	position: relative;
+}
+.p7 {
+	position: absolute;
+	color: #4CAF50;
+	font-size: 22px;
+	width: 350px;
+	left: 8%;
+	top:20%;
+	font-family: 'Baloo Bhaina', cursive;
+	line-height: 30px;
+
+}
+.van_ban {
+	position: absolute;
+	color: #9E9E9E;
+	left: 8%;
+	top:38%;
+	line-height: 20px;
+	font-size: 18px;
+	font-family: 'Baloo Bhaina', cursive;
+
+}
+.p9 {
+	position: absolute;
+	border-radius: 5px;
+	width: 175px;
+	padding: 11px;
+	height: 50px;
+	background-color: #4CAF50;
+	color: white;
+	padding-left: 33px;
+	font-size: 18px;
+	left: 8%;
+	bottom: 20%;
+	font-family: 'Baloo Bhaina', cursive;
+
+}
+.tieu_de3 {
+	background-image: url("file:///C:/Users/Admin/Downloads/BaiTap/Phototime/img/flat-iphone-mockup.png");
+	height: 495px;
+	position: relative;
+	background-repeat:no-repeat;
+    background-position: 15% 100% ;
+}
+.p10 {
+	position: absolute;
+	color: #4CAF50;
+	font-size: 22px;
+	width: 350px;
+	right: 17.5%;
+	top:23%;
+	font-family: 'Baloo Bhaina', cursive;
+
+}
+.van_ban2 {
+	position: absolute;
+	color: #9E9E9E;
+	right: 10%;
+	top:38%;
+	line-height: 20px;
+	font-size: 18px;
+	font-family: 'Baloo Bhaina', cursive;
+
+}
+.p11 {
+	position: absolute;
+	border-radius: 5px;
+	width: 175px;
+	padding: 11px;
+	height: 50px;
+	background-color: #4CAF50;
+	color: white;
+	padding-left: 33px;
+	font-size: 18px;
+	right: 31%;
+	bottom: 20%;
+	font-family: 'Baloo Bhaina', cursive;
+}
+.phu_de {
+	position: absolute;
+	right: 40%;
+	top:87%;
+	line-height: 20px;
+	font-size: 21px;
+	line-height: 22px;
+	font-family: 'Baloo Bhaina', cursive;
+
+}
+.tieu_de4 {
+	height: 495px;
+	position: relative;
+}
+.div1 {
+	position: absolute;
+	left:14%;
+	top:33%;
+}
+.div2 {
+	position: absolute;
+	left: 34%;
+	top:26%;
+}
+.div3 {
+	position: absolute;
+	left: 65%;
+	top: 26%;
+}
+.p12 {
+	position: absolute;
+	color: #4CAF50;
+	font-size: 22px;
+	width: 350px;
+	left: 9%;
+	top:47.5%;
+	font-family: 'Baloo Bhaina', cursive;
+
+}
+.p13 {
+	position: absolute;
+	left: 9%;
+	top:55%;
+	width: 180px;
+	line-height: 20px;
+	font-size: 18px;
+	font-family: 'Baloo Bhaina', cursive;
+
+}
+.tieu_de5 {
+	height: 700px;
+	position: relative;
+	background-image: url("file:///C:/Users/Admin/Downloads/BaiTap/Phototime/img/subscribe-background.png");
+	background-size: 100% 100%;
+}
+.p15 {
+	color: white;
+	font-size: 29px;
+	position: absolute;
+	left:450px;
+	top:320px;
+	font-family: 'Baloo Bhaina', cursive;
+}
+.div4 {
+	background-color: white;
+	width: 300px;
+	height: 50px;
+	font-size: 20px;
+	padding: 9px;
+	position: absolute;
+	left:500px;
+	top:370px;
+	border-radius: 5px;
+	font-family: 'Baloo Bhaina', cursive;
+}
+.div5 {
+	position: absolute;
+	left:747px;
+	top:363px;
+}
+.tieu_de6 {
+	height: 350px;
+	position: relative;
+}
+.p19 {
+	position: absolute;
+	font-size: 26px;
+	left :45%;
+	top: 13%;
+	font-family: 'Baloo Bhaina', cursive;
+}
+.p16 {
+	position: absolute;
+	font-size: 21px;
+	left: 22%;
+	top: 25%;
+	font-family: 'Baloo Bhaina', cursive;
+}
+.p17 {
+	position: absolute;
+	font-size: 21px;
+	left: 22.5%;
+	top: 32%;
+	font-family: 'Baloo Bhaina', cursive;
+}
+.p18 {
+	position: absolute;
+	font-size: 21px;
+	left: 36%;
+	top: 39%;
+	font-family: 'Baloo Bhaina', cursive;
+}
+.div6 {
+	background-color: #26A69A;
+	border-bottom-left-radius: 5px;
+	border-top-left-radius: 5px;
+	height: 55px;
+	width: 250px;
+	font-size: 26px;
+	position: absolute;
+	left:25.5%;
+	top: 60%;
+	padding: 6px;
+	font-family: 'Baloo Bhaina', cursive;
+}
+.div7 {
+	background-color: #00897B;
+	width: 75px;
+	height: 55px;
+	border-bottom-right-radius: 5px;
+	border-top-right-radius: 5px;
+	position: absolute;
+	left:44%;
+	top:60%;
+}
+.div7 img {
+	width: 30px;
+	height: 40px;
+	margin:6px;
+	margin-left: 22px;
+
+}
+.div8 {
+	background-color: #26A69A;
+	border-bottom-left-radius: 5px;
+	border-top-left-radius: 5px;
+	height: 55px;
+	width: 250px;
+	font-size: 26px;
+	position: absolute;
+	left:52.5%;
+	top: 60%;
+	padding: 6px;
+	font-family: 'Baloo Bhaina', cursive;
+}
+.div9 {
+	background-color: #00897B;
+	width: 75px;
+	height: 55px;
+	border-bottom-right-radius: 5px;
+	border-top-right-radius: 5px;
+	position: absolute;
+	left:71%;
+	top:60%;
+}
+.div9 img {
+	width: 30px;
+	height: 40px;
+	margin:6px;
+	margin-left: 22px;
+}
+.tieu_de7 {
+	position: relative;
+	height: 200px;
+}
+.tieu_de7 img {
+	position: absolute;
+	right:8%;
+	top:58%;
+}
+.tieu_de7 p {
+	position: absolute;
+	left: 12%;
+	top:75%;
+	font-size: 22.5px;
+}
+.div10 {
+	position: absolute;
+	left: 13%;
+	top:55%;
+	font-size: 20px;
+	font-family: 'Baloo Bhaina', cursive;
+}
+.div11 {
+	position: absolute;
+	left: 20%;
+	top: 55%;
+	font-size: 20px;
+	border-left: 1px solid #00897B;
+	border-right: 1px solid #00897B;
+	width: 120px;
+	padding-left: 16.5px;
+	font-family: 'Baloo Bhaina', cursive;
+}
+.div12 {
+	position: absolute;
+	left: 30%;
+	top: 55%;
+	font-size: 20px;
+	font-family: 'Baloo Bhaina', cursive;
+}
