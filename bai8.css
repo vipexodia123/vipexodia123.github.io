@@ -1,0 +1,320 @@
+* {
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+}
+#tieu_de img {
+	margin-bottom: 50px;
+	width: 100%;
+}
+#tieu_de p {
+	font-family: 'Lemonada', cursive;
+	position: absolute;
+    font-size: 100px;
+    left: 26%;
+    top: 115px;
+    color: #4d3f33;
+}
+.noi_dung1 {
+	width: 800px;
+	margin:auto;
+}
+.noi_dung1 p {
+	font-family: 'Cabin', sans-serif;
+	font-size: 25px;
+	padding: 20px;
+	line-height: 35px;	
+}
+.noi_dung1 span {
+	font-size: 130px;
+    float: left;
+    margin-top: 35px;
+    margin-right: 12px;
+    margin-bottom: 6px;
+}
+body {
+	background-image:url('https://dqbach.github.io/Giao%20Trinh/B8/anh/bg.jpg');
+}
+.noi_dung2 {
+	margin-left: 15%;
+	margin-right: 15%;
+}
+.noi_dung2 img {
+	width:100%;
+	margin-bottom: 11px;
+}
+.noi_dung2 p {
+	font-size: 16.5px;
+}
+.noi_dung3 {
+	width: 800px;
+	margin:auto;
+}
+.noi_dung3 p {
+	font-family: 'Cabin', sans-serif;
+	margin-left: 2%;
+	margin-top: 40px;
+	font-size: 25px;
+	line-height: 35px;
+
+}
+.noi_dung4 img {
+	width: 100%;
+}
+.noi_dung4 {
+	margin-top: 35px;
+	margin-left: 40%;
+	margin-right:40%;
+}
+.noi_dung5 img {
+	margin-top:35px;
+	margin:auto;
+	width: 100%;
+}
+.noi_dung5 {
+	position: relative;
+	margin-top: 50px;
+}
+
+.noi_dung5_1 p {
+	position: absolute;
+	left:140px;
+	top:600px;
+	background-color: white;
+	font-size: 30px;
+	font-family: 'Montserrat', sans-serif;
+	line-height: 35px;
+}
+.noi_dung6 {
+	position: relative;
+	width: 600px;
+	margin:auto;
+	margin-bottom: 80px;
+	margin-top:80px;
+}
+.noi_dung6 img {
+	width: 100%;
+}
+.noi_dung6 p {
+	background-color: white;
+	font-size: 35px;
+	line-height: 35px;
+	text-align: left;
+	position: absolute;
+	left:-350px;
+	top:300px;
+	width: 340px;
+	font-family: 'Montserrat', sans-serif;
+}
+.noi_dung7 {
+	position: relative;
+	width: 600px;
+	margin:auto;
+	margin-bottom: 80px;
+	margin-top:80px;
+}
+.noi_dung7 img{
+	width: 100%;
+}
+.noi_dung7 p{
+	background-color: white;
+	font-size: 35px;
+	line-height: 35px;
+	text-align: left;
+	position: absolute;
+	right:-360px;
+	top:300px;
+	width: 340px;
+	font-family: 'Montserrat', sans-serif;
+}
+.noi_dung8 {
+	position: relative;
+	margin:auto;
+	margin-bottom: 100px;
+}
+.noi_dung8 img{
+	width: 100%;
+}
+.noi_dung8 p{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 25px;
+	line-height: 30px;
+	width: 280px;
+	position: absolute;
+	background-color: white;
+	top:400px;
+	right: 290px;
+}
+.noi_dung9 {
+	position: relative;
+	margin:auto;
+	margin-bottom: 100px;
+}
+.noi_dung9 img{
+	width: 100%;
+}
+.noi_dung9 p{
+	position: absolute;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 27px;
+	width: 580px;
+	background-color: white;
+	bottom: 80px;
+	left: 60px;
+}
+.noi_dung10 {
+	position: relative;
+	width: 600px;
+	margin:auto;
+	margin-bottom: 80px;
+	margin-top:80px;
+}
+.noi_dung10 img {
+	width: 100%;
+}
+.noi_dung10 p{
+	background-color: white;
+	font-size: 25px;
+	line-height: 35px;
+	text-align: left;
+	position: absolute;
+	left:-360px;
+	top:230px;
+	width: 340px;
+	font-family: 'Montserrat', sans-serif;
+}
+.noi_dung11 {
+	position: relative;
+	width: 600px;
+	margin:auto;
+	margin-bottom: 80px;
+	margin-top:80px;
+}
+.noi_dung11 img{
+	width: 100%;
+}
+.noi_dung11 p{
+	background-color: white;
+	font-size: 25px;
+	line-height: 35px;
+	text-align: left;
+	position: absolute;
+	right:-360px;
+	top:385px;
+	width: 340px;
+	font-family: 'Montserrat', sans-serif;
+}
+.noi_dung12 {
+	position: relative;
+	margin:auto;
+	margin-bottom: 100px;
+}
+.noi_dung12 img{
+	width: 100%
+}
+.noi_dung12 p{
+	position: absolute;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 27px;
+	width: 610px;
+	background-color: white;
+	bottom: 80px;
+	right: 60px;
+}
+.noi_dung13 {
+	position: relative;
+	width: 600px;
+	margin:auto;
+	margin-bottom: 80px;
+	margin-top:80px;
+}
+.noi_dung13 img {
+	width: 100%;
+}
+.noi_dung13 p{
+	background-color: white;
+	font-size: 25px;
+	line-height: 35px;
+	text-align: left;
+	position: absolute;
+	left:-360px;
+	top:230px;
+	width: 340px;
+	font-family: 'Montserrat', sans-serif;
+}
+.noi_dung14 {
+	position: relative;
+	margin:auto;
+	margin-bottom: 100px;
+}
+.noi_dung14 img {
+	width: 100%;
+}
+.noi_dung14 p {
+	position: absolute;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 27px;
+	width: 420px;
+	background-color: white;
+	bottom: 650px;
+	left: 60px;
+}
+.noi_dung15 {
+	position: relative;
+	width: 600px;
+	margin:auto;
+	margin-bottom: 80px;
+	margin-top:80px;
+}
+.noi_dung15 img{
+	width: 100%;
+}
+.noi_dung15 p{
+	background-color: white;
+	font-size: 25px;
+	line-height: 35px;
+	text-align: left;
+	position: absolute;
+	right:-360px;
+	top:385px;
+	width: 340px;
+	font-family: 'Montserrat', sans-serif;
+}
+.noi_dung16 {
+	position: relative;
+	margin:auto;
+	margin-bottom: 100px;
+}
+.noi_dung16 img {
+	width: 100%;
+}
+.noi_dung16 p {
+	position: absolute;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 27px;
+	width: 290px;
+	background-color: white;
+	bottom: 120px;
+	left: 60px;
+}
+.noi_dung17 {
+	background-image: url("https://dqbach.github.io/Giao%20Trinh/B8/anh/bg2.jpg");
+}
+.noi_dung17 p {
+	text-align: center;
+	padding: 200px;
+	font-size: 40px;
+	font-family: 'Lemonada', cursive;
+	color: white;
+}
+.noi_dung17 a {
+	text-decoration: none;
+    position: fixed;
+    bottom: 50%;
+    left: 0px;
+    padding: 8px;
+    background-color: #2b5f75;
+    color: white;
+    border-radius: 5px;
+    font-family: 'Cabin', sans-serif;
+}
