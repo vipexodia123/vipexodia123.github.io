@@ -1,0 +1,161 @@
+* {
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+}
+#tatca {
+	background-color: black;
+	height: 663px;
+	width: 100%;
+	margin:auto;
+	color: #20C20E;
+}
+.tieu_de p{
+	padding-top: 2.5%;
+	color: #20C20E;
+	font-size: 30px;
+	margin-top: -0.75%;
+	
+}
+.p1 {
+	position: absolute;
+	padding-left: 8%;
+	left: 3%;
+	float: left;
+	
+}
+.p2 {
+	position: absolute;
+	left: 20%;
+	padding-left: 24%;
+	padding-right: 30%;
+	
+}
+.p3 {
+	left: 76%;
+	position: absolute;
+	
+}
+
+.the1 {
+	border-radius: 8px;
+	background-color: black;
+	width: 44.5%;
+	height: 45%;
+	float: left;
+	margin-top: 6%;
+	margin-left:5%;
+	
+	border:1px solid #20C20E ;
+	border-top: 35px solid  #20C20E;
+}
+.the2 {
+	width: 44.5%;
+    height: 45%;
+	background-color: black;
+	float: right;
+	margin-top: 6%;
+	margin-right: 5%;
+	border-radius: 8px;
+	border:1px solid #20C20E;
+	border-top: 35px solid  #20C20E;
+	
+}
+.the3 {
+	border-radius: 8px;
+	background-color: black;
+	width: 44.5%;
+	height: 33%;
+	margin-left:5%;
+	float: left;
+	margin-top:1.5%;
+	border-color: #20C20E;
+	border: 1px solid #20C20E;
+	border-top: 35px solid  #20C20E;
+}
+.the4 {
+	border-radius: 8px;
+	background-color: black;
+	width: 44.5%;
+	height: 33%;
+	margin-right:5%;
+	float: right;
+	margin-top:1.5%;
+	border:1px solid #20C20E;
+	border-top: 35px solid  #20C20E;
+}
+.p4 {
+	position: absolute;
+	left:5.25%;
+	top:13.25%;
+	font-size: 20px;
+}
+.p5 {
+	position: absolute;
+	right:46%;
+	top:13.25%;
+	font-size: 20px;
+}
+.p6 {
+	position: absolute;
+	left:5.25%;
+	top:61.5%;
+	font-size: 20px;
+}
+.p7 {
+	position: absolute;
+	right:44.5%;
+	top:61.5%;
+	font-size: 20px;
+}
+.p8 {
+	margin-top: 6%;
+	font-size: 25px;
+	color:  #20C20E;
+	text-align: center;
+}
+.fa-sign-out-alt {
+	position: absolute;
+	left: 46.5%;
+	top: 12.75%;
+}
+.the5 {
+	position: absolute;
+	left: 19%;
+	top:22%;
+	color:  #20C20E;
+}
+.the6 {
+	position: absolute;
+	left: 19%;
+	top:46%;
+	color:  #20C20E;
+}
+
+#search {
+	position: absolute;
+	height: 65px;
+	width: 300px;
+	font-size: 25px;
+	left: 55%;
+	top:75%;
+	border-radius: 8px;
+	border:1px solid #20C20E;
+	text-align: center;
+	background-color: black;
+	color: #20C20E;
+}
+.fa_fa-search {
+	position: absolute;
+	height: 65px;
+	width: 175px;
+	font-size: 25px;
+	left: 78.5%;
+	top:75%;
+	border-radius: 8px;
+	border:1px solid #20C20E;
+	text-align: center;
+	color: #20C20E;
+	text-align: center;
+	background-color: black;
+}
